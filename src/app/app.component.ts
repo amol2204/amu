@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Repo-Test';
+
+  test1() {
+    alert('Thank You!')
+  }
 }
